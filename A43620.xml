@@ -1,0 +1,511 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The good old cause, or, The divine captain characteriz'd in a sermon (not preach'd, nor needful to be preach'd, in any place so properly as in a camp) by Edm. Hickeringill ...</title>
+            <author>Hickeringill, Edmund, 1631-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43620</idno>
+            <idno type="STC">Wing H1807</idno>
+            <idno type="STC">ESTC R7616</idno>
+            <idno type="EEBO-CITATION">12815066</idno>
+            <idno type="OCLC">ocm 12815066</idno>
+            <idno type="VID">94127</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43620)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94127)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 983:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The good old cause, or, The divine captain characteriz'd in a sermon (not preach'd, nor needful to be preach'd, in any place so properly as in a camp) by Edm. Hickeringill ...</title>
+                  <author>Hickeringill, Edmund, 1631-1708.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soldiers --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94127:1"/>
+            <pb facs="tcp:94127:1" rendition="simple:additions"/>
+            <p>THE <hi>Good Old Cauſe:</hi> OR, THE Divine CAPTAIN Characteriz'd. IN A SERMON (Not Preach'd, nor needful to be Preach'd, in any place ſo properly as in a CAMP.)</p>
+            <q>Upon <bibl>II Sam. x. 12.</bibl>
+               <p>
+                  <hi>Be of good Courage, and let us play the men for our People, and the Cities of our God, and the Lord do what ſeemeth him good.</hi>
+               </p>
+            </q>
+            <p>By <hi>ED M. HICKERINGILL,</hi> Rector of the Rectory of <hi>All-ſaints</hi> in <hi>Colcheſter.</hi>
+            </p>
+            <p>
+               <hi>Licens'd according to Order,</hi> Feb. 1. 1691/2.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Dunton,</hi> at the <hi>Raven</hi> in the <hi>Poultry,</hi> 1692.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:94127:2" rendition="simple:additions"/>
+            <pb facs="tcp:94127:2"/>
+            <head>To the HONOURABLE the Lord Colcheſter, THE Noble Captain of Their Majeſties Life-Guard, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe Your Lordſhip,</salute>
+            </opener>
+            <p>IN this following Text (of all other Verſes in the Bible) is found the faireſt Character of a Valiant <hi>Captain</hi> with a <hi>divine</hi> Mind, a <hi>brave</hi> Courage in a <hi>Heavenly</hi> Soul, a <hi>great</hi> and a <hi>good</hi> Heart, (a moſt auſpicious Conjunction of <hi>Vertue</hi> and <hi>Valour.</hi>)</p>
+            <p>If Vertue and Valour be not <hi>one and the ſame</hi> thing, yet they are ſo <hi>near of Kin,</hi> that the <hi>Latins</hi> have <hi>but one</hi> word to expreſs <hi>both;</hi> at leaſt, they are <hi>reciprocal:</hi> No man is truly <hi>virtuous</hi> that is not truly <hi>valorous;</hi> no man is truly <hi>valo<g ref="char:EOLhyphen"/>rous</hi> that is not truly <hi>virtuous:</hi> For which cauſe Fortitude or Valour is accounted one of the four Cardinal Virtues.</p>
+            <pb facs="tcp:94127:3"/>
+            <p> To promote <hi>Virtue,</hi> and conſequently <hi>Valour,</hi> in our <hi>Armies</hi> and <hi>Navies,</hi> (whereof theſe Three Kingdoms never had more need) I have, with an humble <hi>Heart,</hi> lent my helping <hi>Hand</hi> from the <hi>Preſs,</hi> to <hi>whom</hi> it could not be very <hi>audible</hi> from my <hi>low Pulpit.</hi>
+            </p>
+            <p>And <hi>the Guard</hi> of His Majesty's <hi>Sacred Per<g ref="char:EOLhyphen"/>ſon</hi> (the <hi>Darling</hi> of <hi>Heaven</hi> as well as of <hi>Man<g ref="char:EOLhyphen"/>kind</hi>) being more <hi>peculiarly</hi> your Honourable <hi>Pro<g ref="char:EOLhyphen"/>vince,</hi> (in this his ſo famous and neceſſary Expe<g ref="char:EOLhyphen"/>dition) invites as well as encourages me to the de<g ref="char:EOLhyphen"/>dication of this Sermon to Your Lordſhip, which (I may without Ostentation ſay) is <hi>ſo uſeful to all</hi> Men (againſt the Fears of Death (the King of Terrours) but eſpecially, in this juncture, <hi>ſeaſo<g ref="char:EOLhyphen"/>nable</hi> and <hi>ſuitable</hi> for the Souldiery, (if they will find time to read it) and upon ſuch a Text, as per<g ref="char:EOLhyphen"/>haps was never handled before in this method by any man, except by</p>
+            <closer>
+               <salute>(My Lord)</salute>
+               <lb/>
+               <signed>Your Lordſhips most devoted<lb/> Servant,<lb/> 
+                  <hi>E. Hickeringill.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:94127:3"/>
+            <head>THE <hi>Good Old Cauſe:</hi> OR, THE Divine Captain Characteriz'd.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>II SAM. X. 12.</hi>
+                  </bibl>
+                  <p>Be of good Courage, and let us play the Men, for our People, and the Cities of our GOD; and the Lord do what ſeemeth him good.</p>
+               </q>
+            </epigraph>
+            <p>GEnerals of Armies have uſually in all Ages, amongſt all Nations, made a <hi>Speech</hi> to encourage their Souldiers when drawn up in Battel-aray, and ready to engage: Such a Speech is this <hi>Text,</hi> made by <hi>Joab,</hi> (King <hi>David</hi>'s General) when his Army ſtood in <hi>bat<g ref="char:EOLhyphen"/>talia,</hi> ready to fight the Enemy that had beſet them Front and Reer, the <hi>Syrians</hi> in the <hi>Front,</hi> and the <hi>Am<g ref="char:EOLhyphen"/>monites</hi> in the <hi>Reer;</hi> no way left to <hi>run away,</hi> they muſt either fight or dye; nay, fight, that they may not be killed. In this deſperate ſtate, the General <hi>faces</hi> his
+<pb n="2" facs="tcp:94127:4"/>Army to the <hi>Front</hi> and <hi>Reer,</hi> the Front he leads himſelf againſt the <hi>Syrians,</hi> the other half of his Army his Bro<g ref="char:EOLhyphen"/>ther <hi>Abiſhai</hi> led againſt the <hi>Ammonites.</hi>
+            </p>
+            <p>In this poſture the Army was <hi>drawn up</hi> in the face of their Enemies, when the valiant <hi>Joab,</hi> made a Speech, addreſſing himſelf, particularly to his valiant Brother <hi>A<g ref="char:EOLhyphen"/>biſhai,</hi> ſaying, <hi>If the</hi> Syrians <hi>be too ſtrong for me, then thou ſhalt help me; but if the Children of</hi> Ammon <hi>be too ſtrong for thee, then I will help thee. Be of good Courage, and let us play the men, for our People and the Cities of our God; and the Lord do what ſeemeth him good.</hi>
+            </p>
+            <p>In my opinion this is the <hi>moſt pithy</hi> and <hi>ſuccinct,</hi> as well as the moſt divine Speech of a noble General that ever I met with.</p>
+            <p>In the former part he ſpeaks like a <hi>good Souldier,</hi> like a <hi>brave man;</hi> in the latter part like a Divine, like a good man: For, <hi>Joab</hi> did not <hi>buy</hi> his Place, nor make <hi>Friends at Court</hi> to intercede, nor claimed <hi>Kindred to the Blood Royal;</hi> and yet he might, for the King was his Couſin-Germain; but he <hi>won the place</hi> by his Sword.</p>
+            <p>For, King <hi>David</hi> had paſs'd his royal Word, that he that <hi>firſt</hi> ſmote the <hi>Jebuſites,</hi>
+               <note place="margin">1 Chron. 11.6. 1 Chron. 11.20, 21.</note> he ſhould be Chief and Cap<g ref="char:EOLhyphen"/>tain: <hi>Joab</hi> did it, and his Lieutenant-General got <hi>his Place</hi> by his Valour too; <hi>he lift up his Sword againſt</hi> 300, <hi>and ſlew them, and had the firſt</hi> name amongſt the <hi>ſecond Ternary</hi> of <hi>David</hi>'s Worthies.</p>
+            <p>Valour is twofold; <hi>Active</hi> and <hi>Paſſive.</hi>
+            </p>
+            <p>
+               <hi>Active</hi> Valour conſiſts in <hi>doing</hi> hardy things, like a ſtout and <hi>great man.</hi>
+            </p>
+            <p>
+               <hi>Paſſive</hi> Valour conſiſts in <hi>ſuffering,</hi> and enduring hard<g ref="char:EOLhyphen"/>ſhip couragiouſly, like a pious and <hi>good man.</hi>
+            </p>
+            <p>Theſe two ſorts of Valour divide the Text into 2 parts; Active Valour in theſe words, <hi>Be of good courage, and let us play the men, for our People and the Cities of our God.</hi>
+               <pb n="3" facs="tcp:94127:4"/>Paſſive Valour in theſe words, <hi>Let the Lord do what ſee<g ref="char:EOLhyphen"/>meth him good;</hi> or as the <hi>Chaldee Paraphraſe,</hi> (none of the worſt Verſions) <hi>Let the Lord do whatſoever he has pre<g ref="char:EOLhyphen"/>deſtinated or fore-ordained.</hi> As if he ſhould ſay, Shall not He that made us and brought us into the World, have Leave to <hi>continue us,</hi> or <hi>take us out</hi> of the World, accor<g ref="char:EOLhyphen"/>ding to <hi>his</hi> own (not <hi>our</hi>) good pleaſure? Let what will come, all ſhall be welcome, Life or Death, Liberty or Captivity, Soundneſs or Loſs of Limbs, Victory or De<g ref="char:EOLhyphen"/>feat, even as beſt pleaſes Almighty God, <hi>not my will, but</hi> his <hi>be done; let the Lord do what ſeemeth him good.</hi>
+            </p>
+            <p>Active Valour is made up of three Ingredients, <hi>viz.</hi> 1. A good Courage. 2. A good Conduct. 3. A good Cauſe. Theſe three Ingredients of Active Valour divide the firſt general part of the Text into three particulars.</p>
+            <p n="1">1. A good Courage, in this Exhortation to it; <hi>Be of good Courage.</hi>
+            </p>
+            <p n="2">2. A good Conduct; <hi>Let us play the men.</hi> Some are fierce and ſtout as Lions, and yet may have <hi>but a brutiſh</hi> Valour, and be fool hardy; except their Courage be ma<g ref="char:EOLhyphen"/>naged with a rational and diſcreet Conduct, and thereby <hi>play the men.</hi>
+            </p>
+            <p>Though I confeſs, in this Criticiſm I follow the <hi>Engliſh</hi> Tranſlation, which comes neareſt to the <hi>Septuagint;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Sept.</hi> but the <hi>Chalder</hi> Pa<g ref="char:EOLhyphen"/>raphraſe, and <hi>Syriack</hi> Interpreter, authorizes no ſuch nice diſtinction; <hi>invaleſce &amp; invaleſcamus.</hi>
+               </note> for the <hi>Syriack</hi> and <hi>Chaldee</hi> Paraphraſe have <hi>but one</hi> word to ſignifie both a good Courage and a good Conduct:
+<list>
+                  <item>The former is the proper act of the Hand and Heart.</item>
+                  <item>The latter is the proper act of the Head and Heart.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Solomon</hi> ſays, <hi>A wiſe man is strong;
+<note place="margin">Prov. 24 5.</note> (i. e.)</hi> though his Hand be weak, yet a <hi>good Headpiece</hi> makes him ſtrong and able to play the man.</p>
+            <p n="3">3. Thirdly; A good Cauſe is the <hi>cauſa ſine quâ non,</hi> the ſole Ingredient neceſſary to qualifie and ſanctifie all figh<g ref="char:EOLhyphen"/>ting;
+<pb n="4" facs="tcp:94127:5"/>without a <hi>good Cauſe</hi> all killing is <hi>Murther;</hi> no<g ref="char:EOLhyphen"/>thing but a good Cauſe can hallow our Swords.</p>
+            <p>The good Cauſe in the Text is, <hi>The Good Old Cauſe,</hi> namely, in defence <hi>of our People, and the Cities of our God.</hi> As if General <hi>Joab</hi> had ſaid, Let us play the men for our Countrymen, whether they be good or bad people, they have Lives, and Eſtates, and Liberties, in the defence whereof our Swords are drawn; they have alſo religious Liberties in the true Service and Worſhip of God, <hi>in the Cities of our God,</hi> in defence of which good Cauſe too we muſt <hi>play the men.</hi> For, <hi>all the Cities</hi> of the World, as inhabited by God's Creatures, might as well be called <hi>the Cities of our God,</hi> as well as the Cities of <hi>Iſrael,</hi> if the true <hi>Religion</hi> and <hi>Worſhip</hi> of God in thoſe Cities be not <hi>meant</hi> by this Phraſe, <hi>The Cities of our God.</hi>
+            </p>
+            <p>Thus St. <hi>Auguſtine</hi> ſtiles his Books concerning the Church of God, (as <hi>Joab</hi> in the Text) <hi>de civitate Dei.</hi>
+            </p>
+            <p>
+               <hi>Obj.</hi> But ſome may ſay, That this <hi>War,</hi> when <hi>Joab</hi> made <hi>this Speech,</hi> was not a <hi>defenſive</hi> but <hi>offenſive</hi> War, an invaſion of the Country of the <hi>Ammonites,</hi> and the Bat<g ref="char:EOLhyphen"/>tel was fought <hi>at the Gate</hi> of one of the Cities of the Children of <hi>Ammon, ver.</hi> 8.</p>
+            <p>
+               <hi>Anſ.</hi> I anſwer, That notwithſtanding this Invaſion, this War was <hi>purely defenſive:</hi> For, the <hi>Ammonites</hi> had abus'd King <hi>David</hi>'s Ambaſſadors, which were ſent in kindneſs to condole the death of <hi>Hyram</hi> their late King; which was in effect the abuſe of the King that ſent them.</p>
+            <p>And this abuſe of Ambaſſadors has always <hi>by the Law of Nations</hi> been reckoned a juſt <hi>Cauſe</hi> of War: For this cauſe alone the <hi>Romans</hi> waged War with the <hi>Corinthians,</hi> the <hi>Tarentines</hi> and <hi>Illyrians;</hi> and this was once the cauſe of War betwixt the <hi>Emperor</hi> of <hi>Germany</hi> and the <hi>Port.</hi>
+            </p>
+            <p>And the <hi>Ammonites</hi> here did reſolve upon a War, and to that purpoſe hired <hi>Souldiers of Fortune,</hi> the <hi>Syrians,</hi> for <hi>Money,</hi> to fight for them againſt the <hi>Iſraelites;</hi> where<g ref="char:EOLhyphen"/>upon
+<pb n="5" facs="tcp:94127:5"/>K. <hi>David,</hi> like a wiſe General, ſince <hi>fight they muſt,</hi> he would not be behind-hand with his Preparations, nor ſtay till the <hi>Ammonites</hi> ſhould come into his Country, and make <hi>Iſrael</hi> the <hi>Seat of War,</hi> but by wiſe Conduct, <hi>meets the coming Storm,</hi> and in defence of his People and the Cities of his God, carries the War to the Enemies Ci<g ref="char:EOLhyphen"/>ties, where our valiant General exhorts his valiant Bro<g ref="char:EOLhyphen"/>ther to <hi>be of good courage, &amp;c.</hi>
+            </p>
+            <p>The firſt Ingredient of true active Valour is a good cou<g ref="char:EOLhyphen"/>rage, which is threefold <hi>ſupernatural, natural, additional.</hi>
+            </p>
+            <p n="1">1. Firſt, <hi>Courage ſupernatural,</hi> which appears when God makes men more than men, by infuſing his Spirit of Courage; nor was there ever a great Conqueror, but he alwaies had <hi>this Spirit of God,</hi> which has been given both to good and bad men, Chriſtians and Heathens: This was ſo viſible, even to the Heathens, that they all built Tem<g ref="char:EOLhyphen"/>ples to <hi>Fortune,</hi> which we call <hi>Providence, Nemo vir mag<g ref="char:EOLhyphen"/>nus ſine afflatu divino;</hi> ſuch was <hi>Alexander,</hi> and <hi>Scypio, Caeſar, Pompey, Marius, &amp;c.</hi>
+            </p>
+            <p>And the Heathen Hiſtorian obſerves, that an <hi>Athenian</hi> General (<hi>Themiſtocles</hi> as I remember) never won a Battel after he had <hi>braggingly</hi> told his Countrymen, after a great Victory, <hi>This I did, and in this Fortune had no power,</hi>
+            </p>
+            <p>The Souldiers of the famous <hi>Marius</hi> thought he ſpoke in the fight with <hi>more than human</hi> voice, when he fought and conquer'd that <hi>Inundation</hi> of Men, the <hi>Amnons</hi> and the <hi>Cymbers</hi> that came to <hi>ſwallow up</hi> his Country.</p>
+            <p>When <hi>Gideon</hi> was to be a <hi>Jeſus,</hi> a Saviour to <hi>Iſrael,</hi> 'tis ſaid, <hi>The ſpirit of the Lord came upon Gideon;</hi>
+               <note place="margin">Judg. 6.34.</note> the ſame Spirit (ſometimes called <hi>Faith</hi> or <hi>good Confidence</hi>) made <hi>Baruch</hi> and <hi>Sampſon, Jeptha, David,</hi> and <hi>Samuel,</hi>
+               <note place="margin">Heb. 11.32, 33.</note> to <hi>play the men</hi> above common men, who <hi>through Faith</hi> ſubdued Kingdoms.</p>
+            <p>As for inſtance in <hi>David,</hi> Tho' in prudent and wiſe con<g ref="char:EOLhyphen"/>duct he could not have encountered <hi>Goliah</hi> with any wea<g ref="char:EOLhyphen"/>pon
+<pb n="6" facs="tcp:94127:6"/>better that a <hi>ſling and a stone,</hi> to enter that forehead where alone the Giant was <hi>unarm'd,</hi> and little expected ſuch an Encounter; yet it was a <hi>bold Faith</hi> and <hi>Trust</hi> in the Name of the Lord, that made his Heart ſtrong and his Hand ſteddy. And it was uſual in thoſe days, with a Sling and a Stone, before the uſe of Guns, to <hi>hit at an Hairs breadth,</hi> ſo <hi>dexterous</hi> (I had almoſt ſaid) were thoſe <hi>left-handed Benjaminites,
+<note place="margin">Judg. 20.16.</note> Judg.</hi> xx. For, how big ſoever the Giant was, <hi>David</hi> was neither <hi>longer-liv'd</hi> than we, <hi>nor bigger,</hi> nor ſtronger, if ſo ſtrong, as we are; but <hi>the Spi<g ref="char:EOLhyphen"/>rit of God</hi> put into him a ſupernatural and ſuperlative courage to <hi>play the man for</hi> his <hi>people and the Citys of his God.</hi>
+            </p>
+            <p n="2">2. Secondly, Good Courage is <hi>natural,</hi> the Bounty of Nature, for which a man is indebted (as <hi>Goliah</hi> was) to the firmneſs of his Limbs, the goodneſs of his Complexion, and his happy Stars, to make him <hi>martial ſtrong,</hi> and of <hi>good courage;</hi> ſuch were theſe two Sons of <hi>Zerviah,</hi> in the Text,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſays the <hi>Septuagint.</hi>
+               </note> whom <hi>David</hi> confeſſes to be his overmatch and too hard for him: For, to his Brother <hi>Abiſhai</hi> this Speech is made, tho' our <hi>Engliſh</hi> Tranſlation only ſays, <hi>He ſaid;</hi> but the <hi>Septuagint</hi> adds, <hi>He ſaid to Abiſhai.</hi>
+            </p>
+            <p>Such men as are of a faint and timerous Complexion <hi>naturally</hi> have got a <hi>Caveat enter'd</hi> by Nature in their Boſoms againſt <hi>being liſted</hi> for Souldiers. Such men may be uſeful for the Plow, or to wrap themſelves in a Gown, and ſerve well in the <hi>Pulpit,</hi> or to make a noiſe at the <hi>Bar,</hi> but the thundering of Guns and Drums will give them an <hi>Ague,</hi> and put them into a <hi>Fit of trembling:</hi> It is tem<g ref="char:EOLhyphen"/>pting of God, and bidding Defiance to his <hi>Handmaid</hi> Na<g ref="char:EOLhyphen"/>ture, for ſuch <hi>effeminate</hi> Conſtitutions (of all Employ<g ref="char:EOLhyphen"/>ments) to turn <hi>Souldiers;</hi> let them leave the rugged and boyſterous Wars to rugged and rocky. Complexions and Conſtitutions. Some men have ſtiled a Souldier <hi>a neceſ<g ref="char:EOLhyphen"/>ſary Evil,</hi> but I think, <hi>under Heaven,</hi> a good Souldier is one of <hi>the moſt neceſſary</hi> good things.</p>
+            <pb n="7" facs="tcp:94127:6"/>
+            <p> For, as the World goes, we ſhould loſe all other good things, if it were not for thoſe <hi>brave</hi> Souls, that <hi>play the men</hi> in defence of the innocent Infants, the weaker Sex, and weaker Men; ſtill they are <hi>our People,</hi> and a brave Souldier is their <hi>Rampart,</hi> their <hi>Bulwark,</hi> their <hi>Life guard,</hi> the <hi>only Safeguard, under God,</hi> of <hi>our People, and the Cities of our God:</hi> Without theſe <hi>Protectors</hi> the Pulpit would be a <hi>Cypher,</hi> an empty place, the <hi>Bar</hi> unfrequented, and our Lives and Eſtates at the mercy of a mercileſs Tyrant.</p>
+            <p>But there are but few of theſe Worthies Souldiers <hi>of Natures making</hi> yet a few of them are <hi>enow</hi> to put Cou<g ref="char:EOLhyphen"/>rage into <hi>Cowards,</hi> which is done by,</p>
+            <p n="3">3. Thirdly, Additional Valour, which has many cau<g ref="char:EOLhyphen"/>ſes; as, <hi>First,</hi> a <hi>good Cauſe;</hi> it will make a Coward fight, to think that he fights <hi>for God, for his People, and for the Cities of our God;</hi> as we uſually and truly ſay, That <hi>one honeſt man will beat two Thieves,</hi> becauſe the guilty Con<g ref="char:EOLhyphen"/>ſcience makes a <hi>great Thief a great Coward,</hi> and his Vil<g ref="char:EOLhyphen"/>lany and Roguery makes him a timerous Villain and a fearful Rogue; whilſt he that fights in a <hi>good Cauſe,</hi> fights for God, and God fights for him.</p>
+            <p>This made little <hi>David</hi> boaſt ſo triumphantly;
+<note place="margin">Pſal. 17.3.</note> 
+               <hi>Tho' an Host of men encamp againſt me, my Heart ſhall not fear.</hi> Saith he, <hi>They compaſſed me about like Bees,
+<note place="margin">Pſal. 118.</note> but in the name of the Lord will I deſtroy them.</hi>
+            </p>
+            <p>Yet there are three ſorts of <hi>Fighters</hi> at this day, that <hi>play the men</hi> in a <hi>bad Cauſe;</hi> which I cannot diſmiſs with<g ref="char:EOLhyphen"/>out a <hi>ſevere Repremand</hi> from this Text; as,</p>
+            <p n="1">1. Firſt, Souldiers of <hi>Fortune,</hi> ſuch as was theſe 33000 <hi>Syrians,</hi> that ran away, and fled before <hi>Joab, v.</hi> 13. they were <hi>Hackney-ſouldiers,</hi> hired as <hi>Hackney-horſes</hi> for ſuch a Journey, ſuch an Expedition, <hi>Here's your Money.</hi>
+            </p>
+            <p>Theſe Souldiers of Fortune, that fight <hi>without exami<g ref="char:EOLhyphen"/>ning the cauſe,</hi> and march with the <hi>firſt Chapman,</hi> are the baſeſt of Butchers; for <hi>other</hi> Butchers get a <hi>greaſie living</hi>
+               <pb n="8" facs="tcp:94127:7"/>by killing Beaſts, but Souldiers of Fortune live by killing men, and are meer <hi>Cannibals</hi> and Men-eaters, who (like the <hi>Bravo</hi>'s in <hi>Spain</hi> and <hi>Portugal</hi>) have no other Trade or Profeſſion, but <hi>Hackney Butchers of Men,</hi> any Men, without any other cauſe than that of the <hi>Switzers;</hi> they kill any body for the <hi>l'Argent. What will ye give me,</hi> ſaith <hi>Judas, and I will betray, and be guilty of Innocent Blood? What will ye give me a day, and I will kill, raviſh, burn, and murder,</hi> ſaith the Souldier of Fortune? And all this without any remorſe, cuſtom of Sin hardens his cal<g ref="char:EOLhyphen"/>lous Heart, and makes him pittileſs, and without any Bowels of Humanity, as if he had a Commiſſion from Heaven (as <hi>Peter</hi> had in another caſe) <hi>Ariſe</hi> Peter, <hi>kill and eat.</hi>
+            </p>
+            <p>Of theſe St. <hi>James</hi> ſpeaks; from whence <hi>come Wars and ſighting among you</hi> (meaning the Factions of <hi>Judas Gali<g ref="char:EOLhyphen"/>loeus,</hi>
+               <note place="margin">Jam. 4 1, 2.</note> and alſo the other <hi>Jews</hi> then in war againſt the <hi>Sa<g ref="char:EOLhyphen"/>maritans,</hi> and fought bloodily <hi>for the Money-buſineſs</hi>) <hi>come they not hence even from your Luſts</hi> (of Avarice and Ambi<g ref="char:EOLhyphen"/>tion) <hi>ye fight and war, ye kill, and deſire to have, that ye may conſume it upon your Lusts:</hi> For, a Souldier of Fortune uſually conſumes in <hi>Debauchery</hi> what he gets by this in<g ref="char:EOLhyphen"/>human <hi>Butchery.</hi> Thus <hi>this Devil incarnate</hi> (like his Fa<g ref="char:EOLhyphen"/>ther the Devil) <hi>goes about like a roaring Lion,</hi> (from Country to Country) <hi>ſeeking whom he may devour.</hi>
+            </p>
+            <p>A Prince that has a <hi>good Cauſe</hi> may (notwithſtanding) make uſe of theſe Man-ſlayers or Slaughter-men, as <hi>Cly<g ref="char:EOLhyphen"/>ents</hi> ſometimes ſee their Advocates, not ſo much to be <hi>for</hi> them, as that they be <hi>not hired against</hi> them: though theſe Fellows are ſeldome either faithful or truly valiant; for he that will <hi>ſell his Soul</hi> or his Life for Money, will not fear for Money to betray and <hi>ſell his Prince.</hi>
+            </p>
+            <pb n="9" facs="tcp:94127:7"/>
+            <p> But ſince they are kept (like <hi>Cocks of the Game</hi>) that are good for nothing in Nature, but <hi>to fight,</hi> theſe For<g ref="char:EOLhyphen"/>lorns will ſerve <hi>for a Forlorn,</hi> and to blunt the Enemy's Swords; for, if they will not fight, they are good for nothing but, like the Locuſts of <hi>Aegypt,</hi> to <hi>eat up every green thing:</hi> If theſe be Cowards, they muſt be puniſht as all Cowards are in a well-diſciplin'd Army, with <hi>pre<g ref="char:EOLhyphen"/>ſent Death.</hi>
+            </p>
+            <p>For, <hi>plow</hi> they cannot, <hi>work</hi> they will not, <hi>fight they dare not,</hi> for they are alwaies unſit to dye, and therefore muſt be afraid to dye. This Locuſt, like other Locuſts, is one of the Plagues of Mankind, good for nothing whilſt it lives, but Miſchiefs, and therefore, though unfit <hi>to dye,</hi> yet unfit <hi>to live.</hi>
+            </p>
+            <p>Theſe are the men that nouriſh and foment Wars in <hi>Europe;</hi> War is their <hi>Trade,</hi> their Commodity, and can you blame them, if they make the <hi>utmost penny</hi> they can of their Trade and <hi>Profeſſion?</hi> But, as bad as this Ca<g ref="char:EOLhyphen"/>terpillar is, I have another in the</p>
+            <p n="2">2. <hi>Second place</hi> to expoſe, that <hi>always</hi> fights in a <hi>bad</hi> Cauſe, and therefore is <hi>worſe</hi> (if worſe can be) than a <hi>Souldier of Fortune;</hi> for, this <hi>Man-ſlayer</hi> fights as ſeldom as is poſſible, ſince he does <hi>not love fighting,</hi> but as lazy men <hi>love Work,</hi> they muſt ſtarve without it; he fights to eat, and if he could eat without fighting, it would be the <hi>cameſt Brute</hi> alive.</p>
+            <p>But, in the next place I muſt ſhew you a <hi>Hector,</hi> that loves <hi>fighting</hi> and killing in a <hi>bad Cauſe,</hi> as he loves <hi>his Life,</hi> nay, <hi>more than</hi> his Life or his Salvation; I mean the <hi>Dueliſt,</hi> that thinks himſelf a <hi>tall fellow</hi> if he has kil<g ref="char:EOLhyphen"/>led his Man, though thereby guilty of a double Mur<g ref="char:EOLhyphen"/>ther, 1st, of his Adverſary; 2dly, of himſelf.</p>
+            <p>So unhappy is <hi>this Man of Blood,</hi> if he dies in his Blood, and breathes Revenge to his laſt Breath, then it is a fearful thing to think of his fatal Doom; and if he
+<pb n="10" facs="tcp:94127:8"/>kills his Adverſary, 'tis Odds but he is hang'd; eſpecial<g ref="char:EOLhyphen"/>ly if all King's have ſuch a Conſcience as K. <hi>Charles</hi> I. that never would pardon a Murtherer, ſaying, The Al<g ref="char:EOLhyphen"/>mighty God has enacted, that <hi>He that ſheddeth man's blood, by man ſhall his blood be<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhed:</hi> And who am I, that ſhould pretend a <hi>Prerogative to diſpenſe</hi> with the Laws of the <hi>King of Kings?</hi>
+            </p>
+            <p>
+               <hi>Obj.</hi> But, may ſome ſay, would you have a Gentle<g ref="char:EOLhyphen"/>man whoſe Honour is dearer to him than his Life, put up an Affront, eſpecially ſince the neglect of demanding Sa<g ref="char:EOLhyphen"/>tisfaction (that's the word) is not interpreted <hi>Conſcience,</hi> but <hi>Cowardice,</hi> and invites a ſecond Affront, and happy the Coward that can but come near ſo tame a thing, that he may ſafely kick it?</p>
+            <p>
+               <hi>Anſ.</hi> To which I anſwer, That I knew <hi>not which is better,</hi> Death or Life; they are <hi>indifferent things,</hi> and only good or bad as they are circumſtantiated; a man of Honour will either live in Honour or dye in Honour.</p>
+            <p>But, by <hi>Honour</hi> I mean <hi>not</hi> that Puff, or Blaſt, or <hi>Va<g ref="char:EOLhyphen"/>pour</hi> which has no affinity with <hi>Reaſon,</hi> Honeſty, and a good <hi>Conſcience;</hi> a truly valiant man is a truly virtuous man, and a truly honourable man a truly honeſt man; but he can neither be a good man nor a brave man, that is not a rational man.</p>
+            <p>Now, I am content to give my man of Honour a <hi>Di<g ref="char:EOLhyphen"/>ſpenſation</hi> to anſwer any Challenge, ſo that he retain his <hi>Reaſon</hi> and his <hi>Honeſty.</hi>
+            </p>
+            <p>But, 1st, Is it reaſonable and equal, that a Gentleman of a vigorous Health and a plentiful <hi>Eſtate for his Heirs,</hi> and Heirs <hi>for his Eſtate,</hi> ſhould venture his Life againſt a <hi>Beggarly Hector,</hi> that perhaps is weary of his Life thro' Poverty and Diſeaſes, the loathſom conſequences of his Luſt, and would be beholden to that charitable Hand that would cut the rotten Thread of his Life, rather than ſuffer it miſerably and gradually to rot in pieces? But,</p>
+            <pb n="11" facs="tcp:94127:8"/>
+            <p> 2dly. (What anſwers all other Challenges) a Duel can never be fought with <hi>Honeſty,</hi> becauſe it is point-blank a Defiance and <hi>Breach</hi> of the Laws of God and the King.</p>
+            <p>And therefore let no man pretend to any point of Ho<g ref="char:EOLhyphen"/>nour that is inconſiſtent with his Allegiance to God and the King, the <hi>only</hi> Fountain and <hi>Meaſure</hi> of Honour: And if <hi>Hotſpur</hi> diſlike this my Deciſion, as <hi>too ſage</hi> and cold, yet in his <hi>ſofter minutes</hi> he will thank me, as fiery <hi>David</hi> did his Cooler <hi>Abigail,</hi> when he was upon the Road <hi>in all haste</hi> to kill <hi>Nabal</hi> that Churl, ſaying to her,
+<note place="margin">1 Sam. 25.32, 33.</note> 
+               <hi>Bleſſed be the Lord God of</hi> Iſrael, <hi>which ſent thee this day to meet me; and bleſſed be thy advice; and bleſſed be thou, which haſt kept me this day from coming to ſhed Blood, and from avenging my ſelf with mine own hand.</hi>
+            </p>
+            <p>This Duelling is ſo <hi>unſouldier-like,</hi> that the <hi>brave Ro<g ref="char:EOLhyphen"/>mans</hi> (who conquer'd the World) yet abominated all <hi>pri<g ref="char:EOLhyphen"/>vate</hi> Duels, and if they would ſhew their good Courage, and <hi>play the men,</hi> they did it againſt <hi>the common Enemy</hi> of their People <hi>and the Cities of their God.</hi>
+            </p>
+            <p>Who more valiant than <hi>Julius Caeſar,</hi> or <hi>Cato?</hi> What could be more <hi>cutting</hi> and reviling Language, <hi>than that</hi> which <hi>Cato</hi> gave <hi>Caeſar,</hi> and even in the <hi>Senate-houſe,</hi> and yet this never produc'd a Challenge?</p>
+            <p>What cares a <hi>Rich man</hi> if a fooliſh Fellow call him a <hi>Bankrupt,</hi> and that no body <hi>will trust</hi> him? He ſmiles, and reſolves he will not <hi>run on Trust.</hi>
+            </p>
+            <p>What cares a <hi>valiant</hi> man, if a prating Fellow calls him <hi>Coward?</hi> He ſmiles, and reſolves that the other will find him <hi>no Coward,</hi> if he makes trial.</p>
+            <p>No greater <hi>ſign</hi> of a Bankrupt than to <hi>bring his Action</hi> for the words. No greater ſign of a Coward, than to ſend a <hi>Challenge</hi> for the words; which if a man anſwer, he ventures his Body and Soul, his Life and Eſtate, and if he <hi>kill,</hi> he makes <hi>work</hi> for the <hi>Hangman,</hi> and if he <hi>be kill'd,</hi> he makes work for the <hi>Devil.</hi>
+            </p>
+            <pb n="12" facs="tcp:94127:9"/>
+            <p> But, 3dly, There is yet behind a <hi>worſe Slaughter-man</hi> than either of the former, and all for want of a <hi>good Cauſe,</hi> and that is <hi>your Religious Rogue,</hi> that fights cou<g ref="char:EOLhyphen"/>ragiouſly, and plays the man: <hi>Plays the man,</hi> ſaid I? No, no, he <hi>plays the Devil for God's ſake.</hi>
+            </p>
+            <p>Of theſe our Bleſſed Saviour propheſies, when <hi>they kill you,</hi> they think they do <hi>God good ſervice.</hi> Such was the <hi>Zealots</hi> among the <hi>Jews,</hi> that murther'd the <hi>Samaritans,</hi> becauſe they differ'd from them in Religion, the <hi>Samari<g ref="char:EOLhyphen"/>tans</hi> owning only the five Books of <hi>Moſes, viz. The Law,</hi> but <hi>not the Prophets;</hi> but the <hi>Jews</hi> did believe <hi>both</hi> to be canonical.</p>
+            <p>There's no more reaſon that one man ſhould kill ano<g ref="char:EOLhyphen"/>ther, becauſe he differs from him in Religion, than be<g ref="char:EOLhyphen"/>cauſe he differs from him in Stature, Feature, and Com<g ref="char:EOLhyphen"/>plexion.</p>
+            <p>Thus <hi>Mahomet</hi> preach'd with his <hi>Alcoran</hi> in one hand and his <hi>Sword</hi> in the other; Take your choice, take <hi>his Faith,</hi> or feel the keenneſs of his <hi>Sword.</hi> Thus have I heard that a <hi>moſt Chriſtian</hi> Prince makes <hi>Converts</hi> with Troops of <hi>Dragoons.</hi> Thus the <hi>Spaniards</hi> in <hi>America</hi> drove Shoals of poor naked <hi>Indians</hi> to the Rivers, <hi>utrum horum,</hi> take their choice, either therein to be <hi>baptized</hi> or <hi>drowned.</hi> A ſad Choice, and a worſe Cure, to <hi>knock out mens</hi> Brains becauſe they are <hi>blind</hi> and cannot ſee <hi>ſo well as we,</hi> the abſtruſe Myſteries of Religion. St. <hi>John</hi> ſays, <hi>If a man ſay he loves God, and hates his Brother,</hi> (and Kil<g ref="char:EOLhyphen"/>ling is the extremity of Hatred) <hi>he is a Lyar and a Murderer.</hi>
+            </p>
+            <p>Of theſe <hi>Religious Villains</hi> I'le ſay as <hi>Jacob</hi> of his two murthering Sons (<hi>Simeon</hi> and <hi>Levi</hi>) <hi>Inſtruments of Cru<g ref="char:EOLhyphen"/>elty are in their habitations:
+<note place="margin">Gen. 49.5, 6.</note> Oh my Soul! come not into their ſecret, unto their Aſſemblies; mine Honour, be not thou united.</hi>
+            </p>
+            <pb n="13" facs="tcp:94127:9"/>
+            <p> Bleſſed be God (may the <hi>Papiſts</hi> in <hi>England, Scotland,</hi> and <hi>Ireland</hi> ſay) that the Principles of our Holy Prote<g ref="char:EOLhyphen"/>ſtant Religion, teaches us better things. Bleſſed be God (may <hi>we</hi> ſay) that the Principles of our holy Religion teaches us better things. Let the <hi>Jeſuites</hi> fight like mad (as they <hi>cant</hi> it) <hi>ad propagandum fidem;</hi> let their Coun<g ref="char:EOLhyphen"/>cil of <hi>Conſtance</hi> decree, That no Faith is to be <hi>kept with Hereticks;</hi> let them break Truces, Leagues, and Cove<g ref="char:EOLhyphen"/>nants cemented with Oaths and Sacraments; let their Superſtition (like <hi>Paracelſus</hi>'s <hi>Daemon</hi>) be <hi>conjur'd</hi> and confin'd to the <hi>Pommel of their Swords,</hi> whilſt we know not how to draw our Swords, except in that good Cauſe, in defence of <hi>our People, and the Cities of our God.</hi> This is ſuch an additional cauſe of Valour, that where a man's Stars make but an awkward Souldier, this good Cauſe will cauſe a Coward to be of good courage, and make an effeminate man to <hi>play the man.</hi>
+            </p>
+            <p n="2">2. 2dly, A <hi>ſecond cauſe</hi> of additional Valour is a good Conſcience, or a good <hi>Life</hi> and <hi>Converſation:</hi> Virtue and true Valour are ſo near a kin, that they have but one Name in ſeveral Languages to expreſs them both.</p>
+            <p>Therefore many an Army that has <hi>a good Cauſe of War,</hi> has been ruin'd <hi>by Debauchery,</hi> and the want of a virtuous and <hi>good Diſcipline.</hi>
+            </p>
+            <p>Can a man be <hi>faithful</hi> to his Prince that is <hi>treacherous</hi> to his God, and his own Soul? Can a man be a <hi>Saviour</hi> to his Nation, that wiſhes himſelf <hi>damn'd</hi> at every word? Can he be <hi>valiant</hi> that fears to dye? And muſt not <hi>all men fear</hi> to dye, that live in <hi>open defiance</hi> to the God of Heaven, and therefore <hi>moſt unfit</hi> to dye, <hi>leſt he be damn'd,</hi> according to his daily Prayers? Will not ſuch a one tremble when he comes near the mouth of a <hi>Canon,</hi> and a <hi>Broadſide,</hi> and like <hi>Belthazzar,</hi> knock his Knees together, <hi>in dread</hi> of that fatal Doom he <hi>trembling</hi> ſaw, but knew <hi>not how</hi> to prevent? The <hi>prophaneneſs</hi> of theſe Debauchees
+<pb n="14" facs="tcp:94127:10"/>does debauch their <hi>Courage,</hi> tho' they be <hi>naturally of a good Courage;</hi> well may they <hi>then</hi> think they ſhall <hi>ſink and be damn'd,</hi> they have ſo often wiſh'd it in <hi>cold Blood.</hi>
+            </p>
+            <p>Nor can the greateſt <hi>practiſe of Atheiſm</hi> prove any <hi>Fence</hi> againſt this <hi>Fear,</hi> when Death <hi>stares him</hi> in the face. This <hi>Fool</hi> (as the Pſalmiſt calls him) may <hi>ſay in his Heart,</hi> (that is) Wiſh in his Heart, that <hi>there is no God,</hi> and perhaps may ſay ſo too in his <hi>drunken Rant</hi> and drunken company, but let him come to the <hi>Gates or Ap<g ref="char:EOLhyphen"/>proaches of Death,</hi> and he cannot chuſe but <hi>dread</hi> that <hi>Judge,</hi> againſt whom (like the Giants of old) he has <hi>waged War,</hi> and bid Defiance all his Life-time.</p>
+            <p>And it is obſervable, that the Pſalmiſt ſays, <hi>the Fool hath ſaid in his heart, there is no</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or as the <hi>Chaldee,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies, <hi>God the Judge.</hi> The Fool could be content there ſhould be a <hi>Jehovah,</hi> a <hi>merciful God,</hi> but wiſhes, as <hi>Thieves in Goal do,</hi> that there ſhould never be an <hi>Aelohim</hi> or Judge of Aſſize, and <hi>both</hi> of them for <hi>one and the ſame</hi> reaſon too.</p>
+            <p>
+               <hi>Obj.</hi> A good Conſcience! may ſome ſay, and a <hi>ſober Life</hi> and Converſation, are good, very good things; but he that is <hi>without Sin, let him caſt the firſt stone</hi> at my Debauchee.</p>
+            <p>
+               <hi>Anſ.</hi> It's one thing to ſin <hi>thro' human frailty,</hi> and a vaſtly-different thing to ſin voluntarily, preſumptuouſly, and <hi>with an high hand;</hi>
+               <note place="margin">Num 15 20</note> ſuch Sinners, by the old Law, were <hi>puniſh'd with Death without Mercy.</hi>
+            </p>
+            <p>A man that is a very good Subject may ſometimes <hi>break</hi> ſome of the King's Laws, through <hi>Ignorance or In<g ref="char:EOLhyphen"/>firmity;</hi> but, will this juſtifie a Rebel, that lives in <hi>open defiance</hi> of his Prince, and bids him Battel? It is theſe Rebels to Heaven, that ſeem to follow the counſel of that wicked Woman, to <hi>curſe God and dye;</hi> that <hi>never pray,</hi> but to <hi>be damn'd,</hi> and live in open Hoſtility to the God of Heaven; that will ruine the beſt <hi>Cauſe</hi> in the World.</p>
+            <pb n="15" facs="tcp:94127:10"/>
+            <p> This common and open <hi>Prophaneneſs</hi> does not only provoke God's Wrath againſt themſelves, but againſt their Governors, if they only <hi>reprove</hi> and make Procla<g ref="char:EOLhyphen"/>mations in deteſtation of them. Old <hi>Eli</hi> did thus much to his debauch'd Sons, but, for want of a <hi>ſeverer</hi> Diſci<g ref="char:EOLhyphen"/>pline, God puniſh'd <hi>him and his Houſe</hi> for ever.</p>
+            <p>This Leven muſt be purged out and caſhiered, or elſe it will leven the whole Lump. It is <hi>no ſurprize</hi> therefore to thinking men, to hear of vaſt Fleets put to Sea, with vaſt Expence, and vaſter Hopes, yet <hi>without</hi> Succeſs, whilſt men (thus impudently and openly) from the <hi>First Rate</hi> Ship to the <hi>Tender,</hi> from <hi>Stem</hi> to <hi>Stern,</hi> from the <hi>Captain</hi> to the <hi>Cook,</hi> ſwear and curſe like <hi>Devils,</hi> and therefore <hi>moſt unfit to play the men for our People, and the Cities of our God.</hi>
+            </p>
+            <p>None therefore can be <hi>greater</hi> Enemies to Their Sa<g ref="char:EOLhyphen"/>cred Majeſties and ſo good a Cauſe (the <hi>beſt Cauſe</hi> in the World in this Juncture) than theſe <hi>damning,</hi> curſing, <hi>cur<g ref="char:EOLhyphen"/>ſed,</hi> and <hi>ſwearing Libertines,</hi> that cannot truly and faith<g ref="char:EOLhyphen"/>fully <hi>honour</hi> their King, if they <hi>fear not</hi> God. For ſuch I'll pray (though) as we do over the Doors of them that have the Plague,—<hi>Lord have mercy upon theſe Wretches,</hi> or in the words of <hi>Moſes, O that they were wiſe,
+<note place="margin">Deut. 32.29, 30.</note> that they underſtood this, that they would conſider their latter end. How ſhould one chaſe a thouſand, and two put ten thouſand to flight?</hi>
+            </p>
+            <p>If therefore a Souldier love his God, his own Soul, his King, his own Honour and Welfare, <hi>his People, and the Cities of our God;</hi> let him <hi>ſo live,</hi> that he may not be <hi>a<g ref="char:EOLhyphen"/>fraid to dye,</hi> and then his good Conſcience will add to his Valour, and make a man of good courage, and able to <hi>play the man.</hi>
+            </p>
+            <p n="3">3. A third cauſe of additional Valour, is valiant Lea<g ref="char:EOLhyphen"/>ders, by their couragious Words and Deeds.</p>
+            <p n="1">
+               <pb n="16" facs="tcp:94127:11"/> 1. Firſt by their <hi>Words,</hi> adding <hi>Courage</hi> to their Soul<g ref="char:EOLhyphen"/>diers by ſuch brave <hi>Speeches</hi> as this in the Text.</p>
+            <p>The firſt and braveſt Emperor <hi>Julius Caeſar</hi> was very happy both in Arts and Arms, a good Oratour, and a good Captain, and was addicted to theſe Harangues to cheer up his Souldiers, when ready to come <hi>to the Puſh;</hi> as may be ſeen in his own Commentaries: No man <hi>ſpoke</hi> better; no man <hi>fought</hi> better; both he and <hi>Joab</hi> in the Text, had (as all valiant men have) a great preſence of Mind, had their Wits about them in the midſt of Dan<g ref="char:EOLhyphen"/>gers; they did almoſt what they liſt, and could ſay what they lift, tho' what they ſaid was but little, yet they ſpoke much in little, being happy both for the <hi>Pen</hi> and the <hi>Pike.</hi>
+            </p>
+            <p n="2">2. But the brave <hi>Deeds</hi> of a <hi>Commander</hi> is far more efficacious than brave <hi>Words;</hi> a couragious Leader (like the <hi>Sun-beams</hi>) influences <hi>all that ſee him</hi> with Spirit and Heat and Life: For, as Cowardice is infectious (a few Cowards, if not timely knock'd down, are enough to ruine a whole Camp) ſo <hi>Courage</hi> alſo ſpreads it ſelf, and there's none ſo timerous, but will be ready to <hi>follow their Leader,</hi> if a brave man at Arms.</p>
+            <p n="4">4. A fourth cauſe of <hi>additional Valour</hi> is good <hi>Arms</hi> and good <hi>Armour:</hi> Thoſe will put Courage into a Co<g ref="char:EOLhyphen"/>ward, and thoſe <hi>daunt</hi> the braveſt Enemy that fights <hi>un<g ref="char:EOLhyphen"/>arm'd.</hi> A Souldier may with as much reaſon <hi>flight</hi> all his Garriſons, <hi>ruine</hi> the Bulwarks of his ſtrongeſt <hi>Forts,</hi> and cut down his <hi>Palaſadoes,</hi> as fight without his Ar<g ref="char:EOLhyphen"/>mour. The Prince of Poets (the <hi>firſt,</hi> in <hi>Time</hi> as well as <hi>Exoellence</hi>) never ſights his Champion <hi>Achilles</hi> till he has firſt buckled on him his Armour of Proof.</p>
+            <p>Nor does our
+<note place="margin">* Sir <hi>Phi<g ref="char:EOLhyphen"/>lip Sidney,</hi> who was elected to be K. of <hi>Poland,</hi> but refuſed.</note> 
+               <hi>Engliſh Homer,</hi> (ſo famous <hi>for,</hi> but <hi>leſs happy</hi> in his <hi>Pike</hi> than his <hi>Pen,</hi> yet as terrible to his Enemies abroad, as amiable to his Friends at home, that accepted the <hi>Lawrel,</hi> but refuſed the <hi>Diadem</hi>) in his En<g ref="char:EOLhyphen"/>gliſh <hi>Arcadia,</hi> ever ſight his Knights to beat the Giants,
+<pb n="17" facs="tcp:94127:11"/>till he has firſt brought them the beſt <hi>Horſes,</hi> the beſt <hi>Arms</hi> and <hi>Armour,</hi> that he could imagine, (nay, he ſpares for no Coſts) to furniſh them with. And neglected by none but <hi>Braggadochios</hi> (eſpecially ſince the Invention of Gunpowder.) Is Valour any Fence againſt a Bullet? That <hi>diſmounts</hi> the Higheſt's Courage <hi>in its full Careir,</hi> tho' ſhot by the moſt <hi>feeble</hi> Arm. The Wonders done by a late <hi>Hero</hi> in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> in a <hi>had Cauſe,</hi> was truly attributed to his care of <hi>good Ar<g ref="char:EOLhyphen"/>mour,</hi> for that cauſe ſirnamed <hi>Ironſide.</hi>
+            </p>
+            <p>If <hi>good</hi> Armour has done <hi>ſo great</hi> things in a <hi>bad</hi> Cauſe, what Wonders may it not do <hi>in our Cauſe</hi> at this day, <hi>the best Cauſe in the World, In defence of our People and the Cities of our God,</hi> from the Ravage of a mercileſs and bloody Foe, the <hi>Common Enemy</hi> of Mankind, the <hi>Turks</hi> and <hi>Mahomet</hi> only excepted.</p>
+            <p>This harden'd Enemy, <hi>wonted to ſpoil,</hi> cannot be op<g ref="char:EOLhyphen"/>pos'd, in <hi>humane</hi> probability, by a <hi>Militia,</hi> that has no other Armour than <hi>Feathers</hi> and <hi>Scarfs;</hi> as if a muſter of Men, when three Kingdoms lye at ſtake, and rais'd and maintain'd at a vaſt charge to their Country, were nothing but a <hi>Morris-dance,</hi> that their Women out of their Windows might admire in the Street the <hi>goodly me<g ref="char:EOLhyphen"/>nage</hi> of the <hi>gay Puppit,</hi> that belongs to their Houſe: No other reaſon can be given why, at this day, the <hi>Militia-Captains</hi> clude and fruſtrate the <hi>Statute,</hi> that commands <hi>Back, Breaſt,</hi> and <hi>Pot</hi> for the Horſe, and <hi>Corſlet</hi> for the <hi>Pikes,</hi> now (chang'd forſooth) into a <hi>Leather Jacquet,</hi> nick-nam'd a <hi>Buff Coat,</hi> and into a Red Coat and Byonet. Or, is it becauſe ſome <hi>Feather-bed Captains</hi> ſell ſuch <hi>Ware?</hi> Oh! but Armour is weariſome and heavy: Yes, ſo alſo is the <hi>whole Duty of a Souldier;</hi> but it is the Occupation he has undertaken, and by which <hi>he gets his Livelihood;</hi> and, Can a Workman <hi>work without Tools?</hi>
+               <pb n="18" facs="tcp:94127:12"/>Or, is he aſham'd (like other Workmen) <hi>to carry them on his Back?</hi>
+            </p>
+            <p>Let a Souldier be aſham'd of being beaten, of being a Captive, or running away, but let him never be aſham'd of the <hi>Tools of the Trade</hi> by which alone he ſtands fair for the Victory. But ſay ſome, This Armour ſpeaks <hi>Fear</hi> and <hi>Timerouſneſs.</hi> Does it ſo? Then be it ſo. <hi>Fear,</hi> that makes a <hi>Centinel</hi> or a Guard <hi>more watchful,</hi> is a <hi>due Ingredient</hi> of true Valour. Was there ever any wiſe or ſucceſsful <hi>Generals,</hi> but fortified their Camp? When the <hi>Spade</hi> and the Pickax are the <hi>Souldier's Ar<g ref="char:EOLhyphen"/>mour;</hi> yet this is really <hi>fear of Surprizal,</hi> but not <hi>Cowar<g ref="char:EOLhyphen"/>dice,</hi> but the greateſt Wiſdom.</p>
+            <p>The great <hi>Alexander, Caeſar, Pompey,</hi> and (generally) the <hi>Grecians</hi> and <hi>Romans,</hi> were no Cowards, (for they conquer'd the greateſt part of the known World) yet they never engag'd, but <hi>in bright-ſhining Armour,</hi> eſpe<g ref="char:EOLhyphen"/>cially <hi>their Horſe,</hi> except ſome <hi>light-armed Horſemen,</hi> with us called <hi>Dragoons,</hi> that are not intended to abide the <hi>ſhock,</hi> but in a Battel to be <hi>here, and there, and every where,</hi> as occaſion ſerves, being <hi>Mars's Hermaphrodites,</hi> neither right Horſe nor right Foot, yet <hi>both theſe,</hi> and of extream uſe and behoof in a Camp.</p>
+            <p>A Souldier may as well diſmantle all his Forts, and ſcorn to fight within a Portcullis and Caſtle-walls, Gabi<g ref="char:EOLhyphen"/>ons, Perupets, and Baſtions, as to ſcorn to ſight within his Armour: Victory is not got (but many times loſt) by Bravadoes; and I can ſcarce pity that <hi>Rhodomantade,</hi> that dy'd <hi>upon the point</hi> of <hi>that</hi> Sword that he had <hi>once gain'd</hi> from his baffled Foes, but return'd it in <hi>flanting Bravery,</hi> to play the Game over again, and <hi>lost</hi> it after he had <hi>fairly won</hi> it.</p>
+            <p>Let then our wiſer Souldiers <hi>ride in Armour,</hi> that they may <hi>ride in Triumph,</hi> adorn'd with the Spoils and Tro<g ref="char:EOLhyphen"/>phies
+<pb n="19" facs="tcp:94127:12"/>of the ſlaughtered Enemy, whilſt the <hi>unarm'd Cap<g ref="char:EOLhyphen"/>tives</hi> follow the Wheels of our armed Chariots, and let them <hi>laugh in their Sleeves</hi> at the Cowardice of their armed Conquerors, in ſurprizing a ſleepy, negligent, and unarmed Foe on unequal terms: The ſlaughter'd Dead cannot, and the Living dare not call their Conquerors Cowards. Arm your ſelves therefore when near an Ene<g ref="char:EOLhyphen"/>my, left you pay for your Folly and Credulity, as <hi>Abner</hi> did, who came into his Enemy's Quarters without his <hi>Aylet Shirt,</hi> privy Armour, or <hi>Coat of Mael,</hi> (which had certainly ſav'd his Life.) <hi>Died</hi> Abner <hi>as a Fool dieth?</hi>
+            </p>
+            <p>I care not how rich and glittering my Souldiers Ar<g ref="char:EOLhyphen"/>mour is, ſo it be <hi>of Proof;</hi> let him be <hi>proud on't,</hi> and he'l <hi>joy in it;</hi> and though a little irkſome <hi>at firſt,</hi> yet <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> will facilitate it, (I ſpeak experimentally) and <hi>Custom</hi> will make it <hi>natural and eaſie.</hi>
+            </p>
+            <p>The <hi>Porcupine</hi> never marches but with his Arms rea<g ref="char:EOLhyphen"/>dy fixt; the <hi>Crocodile</hi> never marches, nor ſwims, but in his Armour of <hi>Muſquet-proof;</hi> and, Shall Man, who is made by GOD, the Maſter of all other his fellow-Crea<g ref="char:EOLhyphen"/>tures, lay by his Armour when he goes to fight? To what purpoſe has GOD and Nature furniſh'd Men with better <hi>Brains</hi> to <hi>invent,</hi> and <hi>Hands</hi> to <hi>forge good Armour,</hi> if they play the Fool in the neglect of it, and dye <hi>as a Fool dyeth,</hi> when they ſhould <hi>play the men, for our people, and the Cities of our God?</hi>
+            </p>
+            <p>Did ever any wiſe Souldier accuſe <hi>Hannibal</hi> of Co<g ref="char:EOLhyphen"/>wardice, tho' he fought cunningly moſt commonly with his Brains, to ſpare his Mens Lives, by laying <hi>Ambuſhes,</hi> Bribery, and <hi>Surprizals?</hi> Even the vapouring and flaſhy <hi>French</hi> have now <hi>at length</hi> learnt this Wit, and ſo they conquer, they care not what men ſay or think. <hi>Dolus an virtus quis in hoſte requirit?</hi> was an old Proverb in the <hi>Roman</hi> Camp.</p>
+            <pb n="20" facs="tcp:94127:13"/>
+            <p> But, ſay ſome, <hi>Goliah</hi> was arm'd <hi>Cap-a-pee,</hi> yet he was kill'd. Yes, he was ſo, but it was <hi>digitus Dei,</hi> the Finger of God killed him, as it did <hi>Ahab</hi> that <hi>Cuirazeer,</hi> hitting him in the Joints of his Harneſs, which otherwiſe it was a thouſand to one but they had both been invulnerable.</p>
+            <p>Not that I would have a man <hi>manacled</hi> in his Armour, that he <hi>cannot uſe</hi> his Arms; 'tis enough probably (for Armour keeps no <hi>Aſſurance Office</hi>) to ſecure the noble parts, the Head and Heart, from mortal wounds, let the other take their fate.</p>
+            <p>The Militia of <hi>England</hi> are numerous and ſtrong, but the <hi>Statutes</hi> that well <hi>forms them</hi> are at this day gene<g ref="char:EOLhyphen"/>rally <hi>eluded</hi> by the Levity of ſuch <hi>freſh-water</hi> Officers, that never ſaw a Sword drawn in Anger, and fit them<g ref="char:EOLhyphen"/>ſelves and their Souldiers rather for a <hi>Dance</hi> than a <hi>Fight,</hi> and rather <hi>light, to run away</hi> nimbly, than <hi>abide the Shock</hi> and <hi>Brunt</hi> of a Battel, by arming their Men as the Law requires and enjoyns, the better to <hi>play the men for our people, and the Cities of our God.</hi>
+            </p>
+            <p>There are many other cauſes of <hi>Additional Valour,</hi> as <hi>Deſpair,</hi> Cuſtom and <hi>
+                  <g ref="char:V">Ʋ</g>ſe of Wars,</hi> or any thing that cheers or exhilarates the drooping Spirits, which I leave to Men of War: And thus much for <hi>Good Courage.</hi> The method of my Text invites to ſpeak next of <hi>Good Con<g ref="char:EOLhyphen"/>duct.</hi> And perhaps, ſome that know me may think, that this is a <hi>Province as fit</hi> for me to undertake as moſt other <hi>of my Coat:</hi> But to do it now from a <hi>Text,</hi> would be as impertinent and pragmatical as that of <hi>Phormio</hi> the <hi>Peripatetick</hi> Philoſopher,
+<note place="margin">
+                  <hi>Cicero</hi> de oratore.</note> who took upon him to read a Lecture of the <hi>Duty of a Chieftain</hi> and <hi>good Conduct,</hi> in the preſence of <hi>Hannibal</hi> the braveſt General in the World. Therefore I'll wave it now, and alſo the treating of a <hi>good Cauſe,</hi> becauſe I have ſaid a great deal <hi>to it</hi> and <hi>of it</hi> already, under another Head, and ſpeak a little, and <hi>but a little,</hi> in the laſt place, of the <hi>ſecond-general
+<pb n="21" facs="tcp:94127:13"/>part</hi> of the Text, <hi>Paſſive Valour,</hi> the moſt <hi>difficult</hi> and moſt <hi>divine part of Valour.</hi>
+            </p>
+            <p>Yet many men have attained to this Good Courage in <hi>Paſſive Valour,</hi> that never were famous for <hi>Active Va<g ref="char:EOLhyphen"/>lour.</hi> Any Man, nay, <hi>Woman,</hi> that is <hi>a good Christian,</hi> may learn to bear, and be couragious in <hi>paſſive Valour,</hi> which is nothing elſe but a quiet and <hi>ſerene</hi> temper in the greateſt <hi>Straits,</hi> and under the greateſt <hi>Preſſures</hi> and Difficulties, Loſſes and Croſſes, that can poſſibly befall Mankind, being very well <hi>pleas'd</hi> with <hi>whatſoever</hi> plea<g ref="char:EOLhyphen"/>ſes God to ſend, according to his good pleaſure, as he has <hi>predeſtinated</hi> and <hi>pre-ordain'd.</hi> Not but that it is not only lawful to pray againſt all <hi>Temptations,</hi> and to be <hi>delivered from</hi> all Evil; and not only pray againſt the Plots and Devices of the Enemy, and counterplot them; uſe all Stratagems, Ambuſcades, and whatever the miſ<g ref="char:EOLhyphen"/>chievous Wit of Man has invented for deſtruction of our Enemies; but, when we have done <hi>all that active Valour can instruct,</hi> and all <hi>will not do;</hi> when we meet with Loſſes, Deſeats, Captivity, or Death; then a <hi>divine Souldier</hi> muſt quietly ſubmit to the good pleaſure of him that rules the World, and will do what pleaſeth him in Heaven and in Earth. <hi>Will</hi> we, <hi>will</hi> we! it is a <hi>Sin,</hi> nay, a <hi>Folly,</hi> to repine, but ſerenely ſay with our Bleſſed Savi<g ref="char:EOLhyphen"/>our, <hi>If this cup may not paſs from me except I drink it, not my Will, but thine be done.</hi>
+            </p>
+            <p>Thus Holy <hi>David</hi> prayed and faſted, and <hi>uſed all means</hi> to ſave the Life of his beloved Son, <hi>the fruit of his Sin;</hi> but when God had <hi>declar'd his Will</hi> by the death of the Child, he <hi>cheered up,</hi> and call'd for good Chear.</p>
+            <p>On this ſcore it is that St. <hi>Paul</hi> exhorts the <hi>Philippi<g ref="char:EOLhyphen"/>ans</hi> to be <hi>careful for nothing,</hi> meaning, <hi>for nothing that is paſt:</hi> That care alone is ſinful which is <hi>Janus</hi>-like, and which looks both <hi>backward and forward;</hi> forward it <hi>may</hi> look, forward it <hi>must</hi> look, by way of prevention.</p>
+            <pb n="22" facs="tcp:94127:14"/>
+            <p> For ſo our Saviour and the Apoſtle frequently incul<g ref="char:EOLhyphen"/>cate this Care or Heed that looks <hi>forward;
+<note place="margin">Luke 21.8.</note> Take heed that no man deceive you: let him that ſtandeth take heed leſt he fall:</hi>
+               <note place="margin">2 Cor. 7.22.</note> That we ſhould care for our ſelves, and for one another;
+<note place="margin">1 Cor. 7.32.</note> 
+               <hi>And yet,</hi> ſaith St. <hi>Paul, I would have you without carefulneſs for what is paſt;</hi> and your care may hurt you, <hi>macerate you,</hi> deject you, but cannot poſſibly help you; therefore <hi>uſe the means,</hi> and when you have done what you can, you <hi>have acted</hi> all your part; the next is <hi>God<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s part,</hi> I mean the Event, the <hi>Iſſue,</hi> the <hi>Suc<g ref="char:EOLhyphen"/>ceſs,</hi> for that trouble not your <hi>ſilly</hi> Heads, 'tis <hi>none of your Province,</hi> but belongs to <hi>God alone,</hi> therefore caſt away Care,
+<note place="margin">1 Pet. 5.7.</note> and caſt all your <hi>Care upon God, for he careth for you.</hi>
+            </p>
+            <p>I cannot but pitty thoſe poor Hearts, that make their Lives a Burthen to themſelves and all that are hear them, being overcharged with Cares and Fears of <hi>what ſhall come to paſs.</hi>
+            </p>
+            <p>For my part, I care not what comes to paſs, I'll prevent with my Might and Courage what we call Evils, but <hi>when all I can do</hi> will <hi>not</hi> do, whatever comes is welcome.</p>
+            <p>With what a Courage did St. <hi>Paul</hi> embrace his Fate! How careleſly he deſcants on his death, as if unconcer<g ref="char:EOLhyphen"/>ned! Death, that is the <hi>King of Terrours,</hi> and makes them all <hi>their life-time ſubject to Bondage,</hi> Cares, and Fears, was but St. <hi>Paul</hi>'s Rejoycing and <hi>Entertainment;</hi> yet the Sentence of Death, the <hi>Sentence</hi> to be <hi>beheaded,</hi> was paſt upon him by that bloody <hi>Nero,</hi> and ſhortly to be executed;
+<note place="margin">2 Tim. 4.6.</note> then he writes his Second Epiſtle to <hi>Timo<g ref="char:EOLhyphen"/>thy,</hi> and talks ſo unconcern'd, we <hi>cannot but joy</hi> in him and with him, as if he was only to undertake <hi>a pleaſant Journey; I am now ready to be offered, and the time of my departure is at hand:</hi> The time, the hour he had long wiſh'd for, having a deſire <hi>to depart, and be with Chriſt, which is far better.</hi>
+            </p>
+            <pb n="23" facs="tcp:94127:14"/>
+            <p> A <hi>deſire to depart;</hi> the Original ſignifies, <hi>an earneſt longing</hi> of Soul; as if nothing could ſatisfie, but to have <hi>his longing,</hi> namely, <hi>Death,</hi> which I ſay is called, <hi>The King of Terrours,</hi> the chiefeſt of Terrours; but Death is ſo to <hi>none</hi> but to <hi>Knaves</hi> and <hi>Fools,</hi> I mean, to impeni<g ref="char:EOLhyphen"/>tent People, and ſilly <hi>ignorant</hi> People.</p>
+            <p>To dye! What's that? It is <hi>as natural</hi> to dye as to be born; it is <hi>more neceſſary</hi> to dye than to be born; it is (for ought we know) <hi>leſs Pain</hi> to dye than to be born; Why do we fear Death <hi>then,</hi> that is ſo <hi>natural,</hi> ſo <hi>neceſſa<g ref="char:EOLhyphen"/>ry,</hi> ſo beneficial; <hi>there the Wicked ceaſe from troubling, and there the Weary be at reſt:</hi> There no Tyrant can hurt us, no Grief aſſault us, no Pain nor Anguiſh, for our ſelves or others, can torment us; <hi>there</hi> all <hi>Tears ſhall be wiped away</hi> from our Eyes. And, do we ſear <hi>then</hi> to dye?</p>
+            <p>
+               <hi>Obj.</hi> No, ſay ſome, we do not ſo much fear <hi>to dye,</hi> nor cry, <hi>Lothe to depart,</hi> for any <hi>Sweets of Life,</hi> (which at the beſt are but bitter Sweets) but we fear the <hi>Conſe<g ref="char:EOLhyphen"/>quences</hi> of Death and Judgment.</p>
+            <p>
+               <hi>Anſ.</hi> Do you ſo? But, I'll give you an eaſie and <hi>in<g ref="char:EOLhyphen"/>fallible Receipt</hi> and <hi>Remedy</hi> againſt theſe fearful <hi>Conſe<g ref="char:EOLhyphen"/>quences after Death;</hi> that which makes a Snake or a <hi>Ser<g ref="char:EOLhyphen"/>pent</hi> terrible; <hi>that alone</hi> makes Death terrible, namely, <hi>the Sting;</hi> take away the Sting from theſe, and you ſafely, and <hi>without fear</hi> or <hi>danger,</hi> hug them in <hi>your Bo<g ref="char:EOLhyphen"/>ſoms.</hi>
+            </p>
+            <p>Now the Apoſtle tells us, <hi>The Sting of Death is Sin;</hi> take away that, and Death is <hi>ſtingleſs</hi> and <hi>harmleſs.</hi> Sin ſhall never be imputed to any that are <hi>not Volunteers</hi> to Sin. A man is not a Rebel to his Prince, nor any <hi>Guilt imputed</hi> to him, tho' he <hi>be in</hi> the Enemy's Quarters, if he be taken <hi>Captive</hi> thither, and ſtrive to his utmoſt <hi>to make his eſcape.</hi> So neither ſhall any man be accounted a <hi>Rebel to Heaven,</hi> that's <hi>carried Captive,</hi> thro' Weak<g ref="char:EOLhyphen"/>neſs and Infirmity, to any Sin, and ſtrives to eſcape, ha<g ref="char:EOLhyphen"/>ting
+<pb n="24" facs="tcp:94127:15"/>all Sin with a perfect Hatred, and <hi>reſisting it</hi> as his Enemy <hi>to his utmoſt:</hi> To ſuch a one the Lord imputeth not Sin; Sin <hi>is in</hi> him, but <hi>he does not live in Sin, lye</hi> in Sin, <hi>delight</hi> in Sin, <hi>wallow</hi> in Sin.</p>
+            <p>But, what a vaſt difference is there betwixt him that is <hi>overtaken in a fault,</hi> and he that is a <hi>Volunteer</hi> to Sin, and follows it with all his might to <hi>overtake it!</hi> If to ſuch a one <hi>Death</hi> be the <hi>King of Terrours,</hi> I cannot blame his Fears; but, Who can <hi>pity him</hi> that takes no pity on himſelf, that loves a <hi>Luſt</hi> above his <hi>God,</hi> above his Soul, and above his Peace here and hereafter, when he may ſo eaſi<g ref="char:EOLhyphen"/>ly diſarm the King of Terrours, taking away <hi>his Venome</hi> and Sting?</p>
+            <p>To conclude <hi>this point,</hi> By what <hi>has</hi> been briefly ſaid you may eaſily know to get an <hi>Antidote</hi> againſt Death, and Loſſes, and Croſſes, whatſoever; and conſequently, be <hi>arm'd againſt</hi> Cowardiſe, and all unmanly and un<g ref="char:EOLhyphen"/>chriſtian Fears, even in the greateſt Streights, tho' beſet (as <hi>Joab</hi> and <hi>Abiſhai</hi> in the Text) with a numerous Ene<g ref="char:EOLhyphen"/>my in Front and Reer.</p>
+            <p>Our part <hi>then</hi> is, to be of good <hi>Courage,</hi> with a <hi>good Conſcience,</hi> and in a <hi>good Cauſe;</hi> and let the event be Life or Death, Victory or Defeat, <hi>Let the Lord do what ſeem<g ref="char:EOLhyphen"/>eth him good.</hi>
+            </p>
+            <p>To dye thus in Battel for our <hi>People, and the Cities of our God,</hi> Where is that Daſtard that is afraid <hi>thus</hi> to dye, rather than ſurvive a few weary days, living, or ra<g ref="char:EOLhyphen"/>ther dying daily with the Pangs of the Gout, the Dropſy, the Conſumption, Stone, or the like? Not but that God's Will be done, if this grievous Lot muſt be our Lot, to endure a Thouſand irkſome Deaths, painful and grievous to our ſelves, and loathſome and troubleſome both to our ſelves and by-ſtanding Friends; but we cannot help it, if we muſt be <hi>condemn'd to endure the Fatigues of Life</hi> to the laſt <hi>dringling</hi> Sand; we may not <hi>break</hi> the Glaſs,
+<pb n="25" facs="tcp:94127:15"/>but if a Bullet break it, and in a good Cauſe, the Glaſs is <hi>well run out,</hi> and the moſt made of it that it can <hi>poſſibly</hi> be worth.</p>
+            <p>What! Do we <hi>fear to go to God</hi> and Heaven, (our cer<g ref="char:EOLhyphen"/>tain Portion) if we dye with the ſaid good Conſcience, the ſaid good Courage, and in the ſaid good Cauſe, in defence of <hi>our People, and the Cities of our God?</hi> The very Heathen, that had but the Light of Nature, <hi>pro aris &amp; focis,</hi> were ambitious to dye <hi>for their Altars and Fire<g ref="char:EOLhyphen"/>ſides.</hi>
+            </p>
+            <p>For this Good Cauſe to be <hi>kill'd</hi> in Battel, is, to <hi>dye in Peace,</hi> like good King <hi>Joſiah,</hi> who is ſaid to be gathered <hi>to his Fathers in Peace,</hi> and yet he died in <hi>the Field,</hi> in the FIght, with his <hi>Sword in his Hand:</hi> So that well may ſuch a <hi>Divine Souldier,</hi> with good old <hi>Simeon,</hi> Swan like, ſing his <hi>Nunc dimitis,</hi> tho' he dye like the great King <hi>Guſtavus Adolphus,</hi> in the Field: Death may <hi>take</hi> ſuch a man, Death cannot <hi>hurt</hi> ſuch a man by cut<g ref="char:EOLhyphen"/>ting off a few weary minutes; for, his Account is fair<g ref="char:EOLhyphen"/>ly caſt up, like <hi>Joab</hi>'s in the Text; if he lives, he lives in Victory and Triumph, and lives to God; and if he dies, he dies in Honour, and dies in Peace, and lives <hi>with</hi> God. Can Life or Death be <hi>put out at better Inte<g ref="char:EOLhyphen"/>reſt?</hi> Can <hi>more be made of it?</hi>
+            </p>
+            <p>Well may ſuch a Divine Souldier and Champion for Heaven ſay with St. <hi>Paul,</hi> after he had fought <hi>with Beaſts</hi> at <hi>Epheſus,</hi> and <hi>more brutiſh</hi> men, <hi>I have fought a good Fight, I have finiſhed my Courſe,
+<note place="margin">2 Tim. 4.7.</note> I have kept the Faith; henceforth there is laid up for me a Crown of Righteouſneſs.</hi>
+            </p>
+            <p>I have been extreamly cheer'd in the greateſt Difficul<g ref="char:EOLhyphen"/>ties (my little Experience did ever encounter) with that Expreſſion, <hi>Iſa.</hi> 41.14. <hi>Fear not thou Worm, Jacob.</hi>
+            </p>
+            <p>One would think, if <hi>Jacob</hi> be a <hi>Worm,</hi> had <hi>more cauſe</hi> to fear than <hi>any other Creature</hi> under Heaven; a
+<pb n="26" facs="tcp:94127:16"/>Lion has <hi>Strength,</hi> a Worm has none; the Dove is fear<g ref="char:EOLhyphen"/>ful, but ſhe has <hi>Wings;</hi> the Hare, the Deer are timerous, but they have <hi>ſwiftneſs of Foot,</hi> to fly from Danger; a Snake has none of theſe Advantages, yet ſhe has a <hi>Sting.</hi> But a <hi>Worm,</hi> what Creature ſo deſpicable, ſo ſubject to <hi>the tread</hi> of every Foot? She has no <hi>Wings</hi> to fly, no <hi>Sting</hi> to make them ſtand off, yet <hi>Fear not thou Worm, Jacob.</hi> And why? (the Reaſon follows in the next words) <hi>For I am with thee,</hi> ſaith God. And if God be for us, who can be againſt us?</p>
+            <p>And here I ſhall baulk my Diſcourſe, and the Text, if Id o not ſhew,</p>
+            <p>
+               <hi>Q.</hi> 1. Firſt, How God may be ſaid to be for his Peo<g ref="char:EOLhyphen"/>ple, when the Lord does <hi>what ſeemeth him good,</hi> in pro<g ref="char:EOLhyphen"/>ſpering them, as he did <hi>Joab,</hi> in the Text, with Victory? Or, how God may be ſaid to fight for his People?</p>
+            <p>
+               <hi>Q.</hi> 2. And ſecondly, How long he will fight for them?</p>
+            <p n="1">1. Firſt, I anſwer, that God <hi>viſibly</hi> fights for his Peo<g ref="char:EOLhyphen"/>ple four <hi>ſeveral ways,</hi> all applicable to <hi>this</hi> Text and <hi>theſe</hi> Times, for which I purpoſely choſe this Text; and if I ſhould conclude <hi>my Diſcourſe</hi> on this Text, only with ſhewing what we ſhould do in caſe of Death, De<g ref="char:EOLhyphen"/>feat, or any other <hi>ſinister event,</hi> (a Conſideration very uſeful and neceſſary) yet it would be a Contemplation too melancholly and ominous, to conclude with Paſſive Valour, in active and victorious times, ſuch as this of <hi>Joab</hi> in the Text, a Victory ſultable and parallel to ours in this Juncture: For, in the Verſe next following the Text, we hear the good News, that the Idolaters are <hi>run for it,</hi> the <hi>Syrians</hi> fled before <hi>Joab; And when the Children of</hi>
+               <pb n="27" facs="tcp:94127:16"/>Ammon <hi>ſaw that the</hi> Syrians <hi>were fled, then fled they al<g ref="char:EOLhyphen"/>ſo before</hi> Abiſhai.</p>
+            <p>Almighty God then gives Victory, and viſibly fights for his People, when they fight in a good Cauſe, four ſeveral ways: He did it for <hi>Iſrael, Great Britain,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p n="1">1. Firſt, God is ſaid viſibly to fight when he raiſes up a <hi>Hero,</hi> a Worthy, by endowing him with the Spirit of Courage, as he did <hi>Gideon, Baruk, Jephtha, Sampſon, David, Samuel,</hi> and (that I forget not) <hi>Moſes</hi> and <hi>Joſhua.</hi>
+            </p>
+            <p>But of this I have ſpoken fully already under that Head of <hi>Supernatural Courage.</hi> But, if I ſhould only remem<g ref="char:EOLhyphen"/>ber thoſe famous Worthies, <hi>ſo long ago,</hi> and ſo remote, my Memory would be as <hi>ungrateful</hi> as <hi>treacherous,</hi> if I ſhould forget what all the World at preſent admires, and Poſterity will much more; His <hi>Sacred Majesty</hi> King <hi>WILLIAM,</hi> whom GOD <hi>has raiſed up to be a Deliverer to us in the day of our distreſs, and to reſcue us from Popiſh Tyranny and Superstition,</hi> and all thoſe Miſeries and Calamities which were ready to break in upon us.</p>
+            <p>I am upon a Subject uncapable of Flattery or Hyper<g ref="char:EOLhyphen"/>bole, but ſurely I <hi>cannot ſay leſs</hi> upon ſo great and <hi>Fair</hi> Occaſion, than to <hi>ſay my Prayers;</hi> I only <hi>repeat</hi> the daily Prayers of the Church of <hi>England; In raiſing up thy Servant King</hi> William, <hi>to be a Deliverer to us in the day of our Distreſs, &amp;c. When God's Hand is lifted up, they will not ſee,</hi> ſaith <hi>Iſaiah, but they ſhall ſee,
+<note place="margin">Iſa. 26.11.</note> and be aſhamed for their Envy, &amp;c.</hi>
+            </p>
+            <p>We have ſtill many Envious Souls amongſt us, <hi>it ſpites them to the Heart,</hi> to ſee what God has done for theſe Kingdoms, and yet they clap their Hands before their Eyes, and <hi>will not ſee</hi> what all others in the World ſee: What's the Reaſon? The Prophet ſays, <hi>For their Envy, &amp;c.</hi>
+            </p>
+            <pb n="28" facs="tcp:94127:17"/>
+            <p> Let them go <hi>on,</hi> and let them go to their <hi>Idolater,</hi> (their Idol) if they pleaſe or <hi>dare;</hi> let the <hi>Blind</hi> lead the <hi>Blind,</hi> till they both fall into the Ditch; I mean the <hi>French,</hi> and the <hi>Frenchified Engliſh.</hi> Frenchified En<g ref="char:EOLhyphen"/>gliſh! <hi>There's a word</hi> unknown to our Forefathers. We uſed to be ſuch Apes, as to <hi>take Laws</hi> from <hi>France</hi> for <hi>Feathers,</hi> and Lace, and <hi>Top-knots,</hi> but the <hi>Engliſh,</hi> for 500 years and upwards, have been <hi>a Terrour to France:</hi> And, are theſe <hi>Frenchified-Engliſh</hi> Natives then? And, do they know to whom they truckle, and why?</p>
+            <p>I cannot ſay <hi>leſs</hi> on this ungrateful Subject, and I <hi>will not</hi> ſay more, eſpecially at this time, and on this occaſion; I am very ready at another time to ſpeak more home to our ſilly fellows at home.</p>
+            <p n="2">2. Secondly, God fights for his People, by ſending <hi>his Fear</hi> and Terrour, Amazement and Aſtoniſhment, into the Hearts of the Enemy. This in Scripture is called <hi>God's Hornet,</hi> which, like Beaſts ſtung with a <hi>Garabee</hi> or Hornet, made Men run they did <hi>not know whither,</hi> and they did <hi>not know why,</hi> nor where to be ſafe, they were in ſuch a Conſternation,
+<note place="margin">Deut. 7.20, 21.</note> 
+               <hi>Amazement,</hi> and Fear: And ſo is the word interpreted.</p>
+            <p>Thus when the cowardly Spies (Cowards <hi>all</hi> but <hi>Caleb</hi> and <hi>Joſhua</hi>) went to ſpy out the Land of <hi>Canaan,</hi> the poor Hearts were <hi>out of Heart</hi> when they ſaw the Giants, the Children of <hi>Anak,</hi>
+               <note place="margin">Num. 13.32, 33.</note> and that all the People were men of <hi>great ſtature, But we</hi> (ſay they) <hi>were in our ſight as Graſ<g ref="char:EOLhyphen"/>hoppers, and ſo we were in their ſight.</hi>
+            </p>
+            <p>But, little men may <hi>look up to Heaven;</hi> little men <hi>may cry,</hi> I hope, and call <hi>to GOD</hi> for help, the leſs Ability they had in themſelves: <hi>Therefore,</hi> ſaith God, <hi>Joſh.</hi> 24.12, <hi>I ſent my Hornet before you, which drove them out from before you, but not with thy Sword nor with thy Bow.</hi>
+            </p>
+            <pb n="29" facs="tcp:94127:17"/>
+            <p> Yet they had both Sword and Bow in conquering <hi>Canaan,</hi> but to little purpoſe; if God had not ſent his Hornet before them, to ſting the Enemy to the Heart, and to leave the <hi>Lubbers</hi> (like ominous Beaſts for Sacri<g ref="char:EOLhyphen"/>fice) <hi>without a Heart.</hi>
+            </p>
+            <p>And, to apply it, What account can be given in hu<g ref="char:EOLhyphen"/>man Reaſon, why <hi>Ten of our men,</hi> lately in <hi>Ireland,</hi> would uſually make <hi>an Hundred</hi> to fly? Was it becauſe we were bigger, or <hi>taller,</hi> or ſtronger-limb'd than the <hi>Iriſh</hi> or <hi>French?</hi> No ſuch matter: But all the reaſon that can be given is this; they were <hi>ſtung with Dread, Horrour,</hi> and <hi>Amazement,</hi> run <hi>like Beaſts ſtung</hi> with a Garabee, they did <hi>not know why,</hi> nor whither, <hi>nor where</hi> to hide; God ſent his <hi>Hornet</hi> before us, and to him be the Glory, <hi>not with thy Sword,</hi> nor with <hi>thy</hi> Bow.</p>
+            <p>Nor can it be ſaid, that our late Deliverance and Re<g ref="char:EOLhyphen"/>demption three years ago, was wrought or brought about with Sword or Spear.</p>
+            <p>To ſee ſuch an Army (<hi>treble the number</hi> of our De<g ref="char:EOLhyphen"/>liverer) none <hi>better mounted,</hi> nor better arm'd; to ſee a Navy well <hi>equipp'd,</hi> Men of War well <hi>rigg'd,</hi> and all theſe to melt away and ſcatter, no man purſuing them, What's the matter? God ſent <hi>his Hornet before them.</hi>
+            </p>
+            <p>Not but that it ſpoke both natural and ſupernatural Courage, in a ſuperlative manner, to <hi>attempt ſo bravely,</hi> and <hi>through Faith,</hi> to <hi>ſubdue Kingdoms;</hi> but it was <hi>digitus Dei,</hi> the Hand of God was viſible in it; to him be the Glory, not with thy Sword, nor with thy Bow.</p>
+            <p n="3">3. Thirdly, It ſeemeth good to the Lord ſometimes viſibly to fight for his People <hi>without any human</hi> means at all, and that by Emiſſaries ſent from <hi>Heaven,</hi> (I had al<g ref="char:EOLhyphen"/>moſtſaid, from <hi>Hell too.</hi>) Thus a <hi>good Angel,</hi> an Emiſſa<g ref="char:EOLhyphen"/>ry from <hi>Heaven,</hi> was ſent at the Prayer of that good
+<pb n="30" facs="tcp:94127:18"/>King <hi>Hezekiah,</hi> who kill'd in one night, in the Camp of <hi>Sennacherib</hi> King of <hi>Aſſyria,</hi>
+               <note place="margin">Iſa. 37 36.</note> 185000 men.</p>
+            <p>And thus <hi>they fought from Heaven, the Stars in their courſes fought againſt</hi> Silera,
+<note place="margin">Judg 5.20.</note> defeated by a Woman, the valiant <hi>Deborah</hi> and her Captain <hi>Baruk.</hi>
+            </p>
+            <p>Thus <hi>they fought from Heaven, the Stars in their cour<g ref="char:EOLhyphen"/>ſes,</hi> (the Winds and the Waves fought againſt the <hi>Spaniſh Armado</hi> (ſtiled <hi>Invincible</hi>) in 88,
+<note place="margin">In memory whereof I have ſeen much of Queen <hi>Elizabeths</hi> Coin, with her Effigies, and the Effigies of a Drake.</note> defeated by a Woman, the Valiant Queen <hi>Elizabeth,</hi> and her Captain <hi>Drake.</hi>
+            </p>
+            <p>Thus <hi>they fought from Heaven, the Stars in their courſes,</hi> (the Winds and the Waves) brought our Deli<g ref="char:EOLhyphen"/>verer's Navy, in 88, three years ago, to <hi>their deſired Port:</hi> Nothing but the Finger of Him that commands the Winds and the Waves could have done this; to him be the Glory, not with <hi>thy Sword alone,</hi> (tho' a brave Sword) nor with thy <hi>Bow.</hi>
+            </p>
+            <p>Nay, ſometimes Almighty God ſends Emiſſaries <hi>from Hell,</hi> to vex and plague the Enemies of his People.</p>
+            <p>Thus the Pſalmiſt tells us,
+<note place="margin">Pſal. 78.49.</note> that when God delivered his People from that Tyrant <hi>Pharaoh,</hi> and <hi>Aegyptian</hi> Bondage, <hi>He ſent evil Angels amongſt them.</hi> And thus a <hi>lying Spirit,</hi> (and therefore a Devil) made King <hi>Ahab</hi> fall at <hi>Ramoth-Gilead,</hi>
+               <note place="margin">1 Kin. 22.22.</note> when God ſent him on an Errand improper for a good Angel and Emiſſary from Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>An Angel thus made a few ſilly Worms pull down the Pride of that <hi>Atheiſtical</hi> King <hi>Agrippa,</hi> and eat him up alive. And a ſilly Fly killed our Countryman Pope <hi>Adrian</hi> IV, the only Engliſh-man that ever was Pope.</p>
+            <pb n="31" facs="tcp:94127:18"/>
+            <p> The Hand of God guided the <hi>Randome-Arrow</hi> to the Heart of that Idolatrous King <hi>Ahab,</hi>
+               <note place="margin">1 Kings 22.34.</note> through the Joints of his Harneſs, where only it was penetrable.</p>
+            <p n="4">4. Laſtly, God fights for his People ſometimes with <hi>weak</hi> human means.</p>
+            <p>Thus <hi>Iſrael</hi> muſt be delivered in <hi>Gideon</hi>'s time, not with his whole Army (for then <hi>God's Arm</hi> could not have been <hi>ſo</hi> viſible amongſt <hi>ſo many ſtrong</hi> men at Arms) but by the men that <hi>lapped as a Dog lappeth,</hi> pro<g ref="char:EOLhyphen"/>bably the weakeſt and ſicklieſt in the Camp.</p>
+            <p>From this Topick the good and valiant King (and therefore valiant, becauſe the good King) <hi>Hezekiah</hi> cheer'd up his drooping Souldiers;
+<note place="margin">2 Chron. 32.7, 8.</note> 
+               <hi>Be ſtrong and coura<g ref="char:EOLhyphen"/>gious,</hi> be not diſmayed for the King of <hi>Aſſyria,</hi> nor <hi>for the multitude that is with him; with him is an Arm of Fleſh, but with us is the Lord our God, to help us, and fight our Battels.</hi> But, how long will God <hi>fight our Battels?</hi>
+            </p>
+            <p>The Prophet <hi>Azariah</hi> anſwers this <hi>Quaere</hi> in good King <hi>Aſa</hi>'s time;
+<note place="margin">1 Chr. 15.2.</note> 
+               <hi>The Lord is with you whilſt you are with him, but if you forſake him, he will forſake you.</hi>
+            </p>
+            <p>Many a <hi>good</hi> Cauſe is ſpoil'd <hi>by ill</hi> management, and many a <hi>good</hi> Army by <hi>ill</hi> Diſcipline: <hi>England</hi> has a po<g ref="char:EOLhyphen"/>tent Enemy, but yet <hi>a Cauſe ſo good,</hi> that we may ſay of our King as <hi>Abigail</hi> ſaid to King <hi>David, My Lord fighteth the Battels of the LORD.</hi> GOD grant that this <hi>good</hi> King and this <hi>good</hi> Cauſe do not miſcarry by a <hi>debau<g ref="char:EOLhyphen"/>ched Army</hi> and <hi>Navy.</hi> Can we expect that God ſhould <hi>fight for</hi> or <hi>with</hi> theſe men, that fight <hi>againſt</hi> him, and bid him Defiance, curſing themſelves and their God? We may aſſure our ſelves, that thoſe that wage War againſt the King of Heaven, will never fight ſucceſsfully for Their Sacred Majeſties.</p>
+            <pb n="32" facs="tcp:94127:19"/>
+            <p> He that is not truly virtuous, may do, perhaps, ſome flaſhy Feats, in <hi>Vapour,</hi> or for Company, or for <hi>Shame,</hi> or for Fear or for Deſpair, but he can never be <hi>true to his Poſt,</hi> nor truly valourous. Where there's <hi>no Grace,</hi> no Goodneſs, <hi>no Sobriety,</hi> nor any Vertue, <hi>God is not</hi> there, Valour is not there, nor <hi>Faith,</hi> nor <hi>Faithfulneſs</hi> there: A man's <hi>Courage</hi> and <hi>Loyalty</hi> muſt needs be as frail and <hi>precarious</hi> as his Conſcience and Religion; and if he does not fell his Loyalty <hi>as he bought his Place,</hi> and fell his King and his Faith too, it is becauſe the <hi>Judas</hi> wants a <hi>Chapman.</hi>
+            </p>
+            <p>But in theſe days 'tis poſſible to find a Chapman too, that will be <hi>as free</hi> to part with <hi>his Purſe</hi> as any Wretch can be to <hi>part with his</hi> Faith and <hi>Allegiance.</hi>
+            </p>
+            <p>
+               <hi>Purge out therefore our Sins for thy Names ſake,</hi>
+               <note place="margin">Pſal. 79.9.</note> ſaith holy <hi>David,</hi> when he prayed to God for Victory.</p>
+            <p>If our Armies and Navies be not ſoundly and <hi>through<g ref="char:EOLhyphen"/>ly</hi> purged from open Prophaneneſs, and Curſing, Swea<g ref="char:EOLhyphen"/>ring, Damning, and Debauchery, and from fighting againſt Heaven, by ſinning with <hi>an high Hand</hi> and an impudent Forehead; they will never prove Men of good Courage, never <hi>play the men,</hi> in defence of Their Sacred Majeſties, nor in defence of <hi>our People, and the Cities of our God.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertiſement.</head>
+            <p>
+               <hi>The Works of the Learned:</hi> Or, an Hiſtorical Ac<g ref="char:EOLhyphen"/>count and Impartial Judgment of Books newly printed, both <hi>Foreign</hi> and <hi>Domeſtick:</hi> As alſo the ſtate of Learning in the World. To be publiſhed Monthly; this for <hi>January</hi> 1691/2. By <hi>J. de la Croſe,</hi> a late Author of the Univerſal and Hiſtorical Bibliotheque. Printed for <hi>J. Dunton,</hi> at the <hi>Raven</hi> in the <hi>Poultry.</hi>
+            </p>
+            <pb facs="tcp:94127:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
